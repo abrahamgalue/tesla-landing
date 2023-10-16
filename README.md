@@ -2,9 +2,17 @@
   
 # 🚗 Astro: Tesla landing page
 
-Esta es una recreación de la página de **[Tesla España](https://www.tesla.com/es_es)** hecha con Astro y Tailwind, además de algo de código vanilla para acceder al DOM.
+</div>
 
-🧩 Aquí puedes ver su [Live Demo](https://tesla-landing-abraham.netlify.app/)
+### Landing de la página de Tesla
+
+> 🧩 Aquí puedes ver su [Live Demo](https://tesla-landing-abraham.netlify.app/)
+
+![vista-previa](./public/preview/01-page-preview.png)
+
+## 🚀 Descripción
+
+Esta es una recreación de la página de **[Tesla España](https://www.tesla.com/es_es)** hecha con Astro y Tailwind, además de algo de código vanilla para acceder al DOM.
 
 ## 🎭 Tecnologías
 
